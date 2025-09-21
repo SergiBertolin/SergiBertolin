@@ -33,8 +33,8 @@
 
 ## 🚀 Áreas por explorar
 
-- **Testing y depuración** de aplicaciones frontend  
-- **Backend** con Express  
+- **Testing y depuración** de aplicaciones  
+- **Backend** con Node.js  
 
 ---
 

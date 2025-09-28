@@ -28,13 +28,14 @@
 |----------|-------------|-------------|
 | [POKEDEX](https://github.com/SergiBertolin/POKEDEX) | Ejemplo de integración de API, validación, estado global y enrutamiento | React + TypeScript + Zustand + Zod + React Router |
 | [TASK-LIST-TYPESCRIPT](https://github.com/SergiBertolin/TASK-LIST-TYPESCRIPT) | Aplicación de gestión de tareas. Ejemplo de tipado fuerte y arquitectura frontend escalable | TypeScript + React + Zustand |
+| [E-commerce](https://github.com/SergiBertolin/E-commerce) | Aplicación de E-commerce con carrito, favoritos y filtrado de productos. Ejemplo de arquitectura frontend escalable y tipado fuerte | TypeScript + React + Zustand + Tailwind CSS + Vite |
 
 ---
 
 ## 🚀 Áreas por explorar
 
 - **Testing y depuración** de aplicaciones  
-- **Backend** con Node.js  
+- **Backend** con stack **PERN**.   
 
 ---
 

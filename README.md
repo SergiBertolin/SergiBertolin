@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sergi Bertolín
 
-**Graduado en Química** y con un máster en **Prevención de Riesgos Laborales**, actualmente estoy trabajando como **Coordinador de Higiene Industrial**. Soy una persona **metódica y orientada al detalle**, y quiero dar un giro completo a mi carrera profesional hacia el **Desarrollo web**, combinando mi pasión por la tecnología con mi experiencia en análisis y resolución de problemas.
+**Graduado en Química** y con un máster en **Prevención de Riesgos Laborales**. Actualmente estoy trabajando como **Coordinador de Higiene Industrial**. Soy una persona **metódica y orientada al detalle**, y quiero dar un giro completo a mi carrera profesional hacia el **Desarrollo web**, combinando mi pasión por la tecnología con mi experiencia en análisis y resolución de problemas.
 
 ---
 
